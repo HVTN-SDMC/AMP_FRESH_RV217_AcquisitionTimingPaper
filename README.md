@@ -1,4 +1,4 @@
-# AMP_InfectionTimingEstimation
+# AMP_FRESH_RV217_AcquisitionTimingPaper
 The code and other support files associated with the Rossenkhan et al. paper re: infection timing estimation for AMP.
 
 This software was originally run on 19 June 2020 as an operational step of the AMP trial sieve analysis.  This software is presented here as a historical archive of what was used in that moment, for the purposes of reproducibility.  Any use of this method in new research would be better accomplished with the "adtr" package, available here:
